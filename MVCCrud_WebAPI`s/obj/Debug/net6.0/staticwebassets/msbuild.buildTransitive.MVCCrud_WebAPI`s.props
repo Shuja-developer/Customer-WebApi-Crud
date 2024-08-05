@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MVCCrud_WebAPI`s.props" />
+</Project>
